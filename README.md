@@ -1,6 +1,8 @@
 deorise.nvim
 ============
 
+[![Join the chat at https://gitter.im/Shougo/deorise.nvim](https://badges.gitter.im/Shougo/deorise.nvim.svg)](https://gitter.im/Shougo/deorise.nvim?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Warning: This is the vaporware!  It is not implemented yet.
 
 Deorise is the abbreviation of "dark powered neo-analyser".  It
