@@ -26,7 +26,7 @@ INTRODUCTION						*deorise-introduction*
 ==============================================================================
 INSTALL							*deorise-install*
 
-Note: deorise requires Neovim 0.3.0+ or Vim8.1+ with Python3.6.1+.
+Note: deorise requires Neovim 0.3.0+ or Vim8.1+ with Python3.8.0+.
 
 Please install nvim-yarp plugin for Vim8.
 https://github.com/roxma/nvim-yarp

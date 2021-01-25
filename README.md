@@ -13,7 +13,7 @@ provides the hexa decimal editing feature.
 
 ## Installation
 
-**Note:** deorise requires Neovim 0.3.0+ or Vim8.1+ with Python3.6.1+.  See
+**Note:** deorise requires Neovim 0.3.0+ or Vim8.1+ with Python3.8.0+.  See
 [requirements](#requirements) if you aren't sure whether you have this.
 
 1. Extract the files and put them in your Neovim directory
