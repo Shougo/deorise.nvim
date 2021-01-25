@@ -6,7 +6,7 @@
 
 import typing
 
-from deorise.util import Nvim
+from pynvim import Nvim
 
 
 class Rplugin:
