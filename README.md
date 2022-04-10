@@ -7,6 +7,10 @@ Please read [help](doc/deorise.txt) for details.
 
 Warning: This is the vaporware!  It is not implemented yet.
 
+**Note**: The development on deorise.nvim has stopped.
+
+Please see [ddx.vim](https://github.com/Shougo/ddx.vim).
+
 Deorise is the abbreviation of "dark powered neo-analyser".  It
 provides the hexa decimal editing feature.
 
